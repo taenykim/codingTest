@@ -9,3 +9,5 @@
 3. [K번째 수(배열 조작 - slice)](https://github.com/taenykim/codeingTest/blob/master/level1/3.md)
 
 4. [체육복(탐색)](https://github.com/taenykim/codeingTest/blob/master/level1/4.md)
+
+5. [같은 숫자는 싫어(배열 조작)](https://github.com/taenykim/codeingTest/blob/master/level1/5.md)
