@@ -13,3 +13,5 @@
 5. [같은 숫자는 싫어(배열 조작)](https://github.com/taenykim/codeingTest/blob/master/level1/5.md)
 
 6. [문자열 내 마음대로 정렬하기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/6.md)
+
+7. [문자열 내 p와 y의 개수](https://github.com/taenykim/codeingTest/blob/master/level1/7.md)
