@@ -19,3 +19,5 @@
 8. [문자열 내림차순으로 배치하기(문자열 - sort, reverse)](https://github.com/taenykim/codeingTest/blob/master/level1/8.md)
 
 9. [소수 찾기(숫자 - 배열저장)🤔](https://github.com/taenykim/codeingTest/blob/master/level1/9.md)
+
+10. [시저 암호(문자열 - fromCharCode, charCodeAt)](https://github.com/taenykim/codeingTest/blob/master/level1/10.md)
