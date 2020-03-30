@@ -15,3 +15,5 @@
 6. [문자열 내 마음대로 정렬하기(문자열 - localeCompare)](https://github.com/taenykim/codeingTest/blob/master/level1/6.md)
 
 7. [문자열 내 p와 y의 개수(문자열 - match, 정규표현식)](https://github.com/taenykim/codeingTest/blob/master/level1/7.md)
+
+8. [문자열 내림차순으로 배치하기(문자열 - sort, reverse)](https://github.com/taenykim/codeingTest/blob/master/level1/8.md)
