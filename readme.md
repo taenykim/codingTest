@@ -22,6 +22,8 @@
 
 10. [시저 암호(문자열 - fromCharCode, charCodeAt)](https://github.com/taenykim/codeingTest/blob/master/level1/10.md)
 
+11. [이상한 문자 만들기(문자열 변환 - split, map, join)](https://github.com/taenykim/codeingTest/blob/master/level1/11.md)
+
 ## 카카오
 
 > 2019 겨울 인턴십
