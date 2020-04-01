@@ -26,4 +26,4 @@
 
 > 2019 겨울 인턴십
 
-1. [크레인 인형뽑기 게임(2차원배열 - stack)]
+1. [크레인 인형뽑기 게임(2차원배열 - stack)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md)
