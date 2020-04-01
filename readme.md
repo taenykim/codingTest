@@ -21,3 +21,9 @@
 9. [소수 찾기(숫자 - 배열저장)🤔](https://github.com/taenykim/codeingTest/blob/master/level1/9.md)
 
 10. [시저 암호(문자열 - fromCharCode, charCodeAt)](https://github.com/taenykim/codeingTest/blob/master/level1/10.md)
+
+## 카카오
+
+> 2019 겨울 인턴십
+
+1. [크레인 인형뽑기 게임(2차원배열 - stack)]
