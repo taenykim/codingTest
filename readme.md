@@ -26,6 +26,8 @@
 
 12. [정수 제곱근 판별(숫자)](https://github.com/taenykim/codeingTest/blob/master/level1/12.md) `isInteger`
 
+13. [핸드폰 번호 가리기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/13.md) `정규표현식`, `replace`
+
 ## 카카오
 
 > 2019 겨울 인턴십
