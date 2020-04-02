@@ -24,6 +24,8 @@
 
 11. [이상한 문자 만들기(문자열 변환)](https://github.com/taenykim/codeingTest/blob/master/level1/11.md) `split`, `map`, `join`
 
+12. [정수 제곱근 판별(숫자)](https://github.com/taenykim/codeingTest/blob/master/level1/12.md) `isInteger`
+
 ## 카카오
 
 > 2019 겨울 인턴십
