@@ -28,6 +28,8 @@
 
 13. [핸드폰 번호 가리기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/13.md) `정규표현식`, `replace`
 
+14. [행렬의 덧셈(2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level1/14.md) `map`
+
 ## 카카오
 
 > 2019 겨울 인턴십
