@@ -40,6 +40,8 @@
 
 2. [비밀지도(배열비교)](https://github.com/taenykim/codingTest/blob/master/kakao/2.md) `이진법`
 
+3. [다트 게임(문자열,숫자)](https://github.com/taenykim/codingTest/blob/master/kakao/3.md) `삼항연산자`
+
 > 2019 블라인드
 
-2. [실패율(객체배열)](https://github.com/taenykim/codingTest/blob/master/kakao/3.md) `sort`
+4. [실패율(객체배열)](https://github.com/taenykim/codingTest/blob/master/kakao/4.md) `sort`
