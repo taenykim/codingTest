@@ -36,6 +36,8 @@
 
 1. [탑(배열조작)](https://github.com/taenykim/codeingTest/blob/master/level2/1.md) `map`
 
+2. [프린터(객체배열)](https://github.com/taenykim/codeingTest/blob/master/level2/2.md) `map`, `filter`
+
 ## 카카오
 
 > 2019 겨울 인턴십
