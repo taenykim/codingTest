@@ -35,3 +35,7 @@
 > 2019 겨울 인턴십
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
+
+> 2018 블라인드 1차
+
+2. [비밀지도(배열비교)](https://github.com/taenykim/codingTest/blob/master/kakao/2.md) `이진법`
