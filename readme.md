@@ -39,3 +39,7 @@
 > 2018 블라인드 1차
 
 2. [비밀지도(배열비교)](https://github.com/taenykim/codingTest/blob/master/kakao/2.md) `이진법`
+
+> 2019 블라인드
+
+2. [실패율(객체배열)](https://github.com/taenykim/codingTest/blob/master/kakao/3.md) `sort`
