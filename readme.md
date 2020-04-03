@@ -1,6 +1,8 @@
 # codingTest Study
 
-## 프로그래머스 level1
+## 프로그래머스
+
+> level 1
 
 1. [완주하지 못한 선수(배열 비교)](https://github.com/taenykim/codeingTest/blob/master/level1/1.md) `sort`
 
@@ -29,6 +31,10 @@
 13. [핸드폰 번호 가리기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/13.md) `정규표현식`, `replace`
 
 14. [행렬의 덧셈(2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level1/14.md) `map`
+
+> level 2
+
+1. [탑(배열조작)](https://github.com/taenykim/codeingTest/blob/master/level2/1.md) `map`
 
 ## 카카오
 
