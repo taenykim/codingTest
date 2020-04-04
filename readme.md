@@ -36,7 +36,11 @@
 
 2. [프린터(객체배열)](https://github.com/taenykim/codeingTest/blob/master/level2/2.md) `map`, `filter`
 
-3. [쇠막대기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/2.md)
+3. [쇠막대기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/3.md)
+
+> Summer/Winter Coding (2019)
+
+4. [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/4.md) `GCD`
 
 ## 카카오
 
