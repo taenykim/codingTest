@@ -18,7 +18,7 @@
 
 8. [문자열 내림차순으로 배치하기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/8.md) `sort`, `reverse`
 
-9. 🤔 [소수 찾기(숫자 - 배열저장)](https://github.com/taenykim/codeingTest/blob/master/level1/9.md)
+9. 🤔[소수 찾기(숫자 - 배열저장)](https://github.com/taenykim/codeingTest/blob/master/level1/9.md)
 
 10. [시저 암호(문자열)](https://github.com/taenykim/codeingTest/blob/master/level1/10.md) `fromCharCode`, `charCodeAt`
 
@@ -40,7 +40,7 @@
 
 4. [다리를 지나는 트럭(배열)](https://github.com/taenykim/codeingTest/blob/master/level2/4.md) `queue`
 
-5. [124 나라의 숫자(3진법)](https://github.com/taenykim/codeingTest/blob/master/level2/5.md) `3진법`
+5. 🤔[124 나라의 숫자(3진법)](https://github.com/taenykim/codeingTest/blob/master/level2/5.md) `3진법`
 
 > Summer/Winter Coding (~2018)
 
