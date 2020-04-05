@@ -38,9 +38,11 @@
 
 3. [쇠막대기(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/3.md)
 
+4. [다리를 지나는 트럭(배열)](https://github.com/taenykim/codeingTest/blob/master/level2/4.md) `queue`
+
 > Summer/Winter Coding (2019)
 
-4. [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/4.md) `GCD`
+- [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/wind.md) `GCD`
 
 ## 카카오
 
