@@ -40,6 +40,8 @@
 
 4. [다리를 지나는 트럭(배열)](https://github.com/taenykim/codeingTest/blob/master/level2/4.md) `queue`
 
+5. [124 나라의 숫자(3진법)](https://github.com/taenykim/codeingTest/blob/master/level2/5.md) `3진법`
+
 > Summer/Winter Coding (2019)
 
 - [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/wind.md) `GCD`
