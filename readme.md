@@ -42,6 +42,10 @@
 
 5. [124 나라의 숫자(3진법)](https://github.com/taenykim/codeingTest/blob/master/level2/5.md) `3진법`
 
+> Summer/Winter Coding (~2018)
+
+- [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md) `GCD`
+
 > Summer/Winter Coding (2019)
 
 - [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/wind.md) `GCD`
