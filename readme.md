@@ -1,5 +1,7 @@
 # codingTest Study
 
+🤔 😈 🥵
+
 ## 프로그래머스 level1
 
 1. [완주하지 못한 선수(배열 비교)](https://github.com/taenykim/codeingTest/blob/master/level1/1.md) `sort`
