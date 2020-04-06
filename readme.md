@@ -46,6 +46,8 @@ with JAVASCRIPT.
 
 6. [기능개발(배열탐색)](https://github.com/taenykim/codeingTest/blob/master/level2/6.md) `while`
 
+7. ❗️[조이스틱(그리디)](https://github.com/taenykim/codeingTest/blob/master/level2/7.md)
+
 > Summer/Winter Coding (~2018)
 
 - [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md)
