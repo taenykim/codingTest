@@ -1,6 +1,6 @@
 # codingTest Study
 
-🤔 😈 🥵
+with JAVASCRIPT.
 
 ## 프로그래머스 level1
 
