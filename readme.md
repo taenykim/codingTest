@@ -79,3 +79,5 @@ with JAVASCRIPT.
 > 2020 블라인드
 
 5. 😈[문자열 압축(문자열탐색)](https://github.com/taenykim/codingTest/blob/master/kakao/5.md)
+
+6. 😈[괄호 변환(문자열탐색)](https://github.com/taenykim/codingTest/blob/master/kakao/6.md) `재귀`
