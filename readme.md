@@ -48,6 +48,8 @@ with JAVASCRIPT.
 
 7. ❗️[조이스틱(그리디)](https://github.com/taenykim/codeingTest/blob/master/level2/7.md)
 
+8. 😈[소수 찾기(완전탐색))](https://github.com/taenykim/codeingTest/blob/master/level2/8.md) `재귀 완전탐색`
+
 > Summer/Winter Coding (~2018)
 
 - [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md)
