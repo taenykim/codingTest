@@ -67,3 +67,7 @@
 > 2019 블라인드
 
 4. [실패율(객체배열)](https://github.com/taenykim/codingTest/blob/master/kakao/4.md) `sort`
+
+> 2020 블라인드
+
+5. 😈[문자열 압축(문자열탐색)](https://github.com/taenykim/codingTest/blob/master/kakao/5.md)
