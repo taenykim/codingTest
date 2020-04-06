@@ -52,6 +52,8 @@ with JAVASCRIPT.
 
 9. [큰 수 만들기(그리디))](https://github.com/taenykim/codeingTest/blob/master/level2/9.md) `while`
 
+10. 🤔[가장 큰 수(정렬)](https://github.com/taenykim/codeingTest/blob/master/level2/10.md) `sort`
+
 > Summer/Winter Coding (~2018)
 
 - [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md)
