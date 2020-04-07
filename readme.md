@@ -56,6 +56,8 @@ with JAVASCRIPT.
 
 11. [위장(해시)](https://github.com/taenykim/codeingTest/blob/master/level2/11.md) `Object.values()`
 
+12. [구명보트(정렬)](https://github.com/taenykim/codeingTest/blob/master/level2/12.md)
+
 > Summer/Winter Coding (~2018)
 
 - [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md)
