@@ -58,31 +58,19 @@ with JAVASCRIPT.
 
 12. [구명보트(정렬)](https://github.com/taenykim/codeingTest/blob/master/level2/12.md)
 
-> Summer/Winter Coding (~2018)
+13. [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/13.md)
 
-- [스킬트리(문자열)](https://github.com/taenykim/codeingTest/blob/master/level2/wind2.md)
-
-> Summer/Winter Coding (2019)
-
-- [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/wind.md) `GCD`
+14. [멀쩡한 사각형(숫자)](https://github.com/taenykim/codeingTest/blob/master/level2/14.md) `GCD`
 
 ## 카카오
 
-> 2019 겨울 인턴십
-
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
-
-> 2018 블라인드 1차
 
 2. [비밀지도(배열비교)](https://github.com/taenykim/codingTest/blob/master/kakao/2.md) `이진법`
 
 3. [다트 게임(문자열,숫자)](https://github.com/taenykim/codingTest/blob/master/kakao/3.md) `삼항연산자`
 
-> 2019 블라인드
-
 4. [실패율(객체배열)](https://github.com/taenykim/codingTest/blob/master/kakao/4.md) `sort`
-
-> 2020 블라인드
 
 5. 😈[문자열 압축(문자열탐색)](https://github.com/taenykim/codingTest/blob/master/kakao/5.md)
 
