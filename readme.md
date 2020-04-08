@@ -91,3 +91,5 @@ with JAVASCRIPT.
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
+
+2. [Birthday Cake Candles(배열탐색, 객체)](https://github.com/taenykim/codingTest/blob/master/easy/2.md) `Object.entries()`
