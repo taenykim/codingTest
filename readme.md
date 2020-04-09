@@ -64,6 +64,8 @@ with JAVASCRIPT.
 
 15. [숫자 야구(완전탐색)](https://github.com/taenykim/codeingTest/blob/master/level2/15.md) `3중for문`, `indexOf`
 
+16. 😈[타겟 넘버(DFS)](https://github.com/taenykim/codeingTest/blob/master/level2/16.md) `DFS`, `재귀`, `tree`
+
 ## 카카오
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
