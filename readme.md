@@ -66,6 +66,8 @@ with JAVASCRIPT.
 
 16. 😈[타겟 넘버(DFS)](https://github.com/taenykim/codeingTest/blob/master/level2/16.md) `DFS`, `재귀`, `tree`
 
+17. [가장 큰 정사각형 찾기(DP, 2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level2/17.md) `2차원배열`, `DP`
+
 ## 카카오
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
