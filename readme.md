@@ -68,6 +68,8 @@ with JAVASCRIPT.
 
 17. [가장 큰 정사각형 찾기(DP, 2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level2/17.md) `2차원배열`, `DP`
 
+18. [올바른 괄호(스택)](https://github.com/taenykim/codeingTest/blob/master/level2/18.md)
+
 ## 카카오
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
