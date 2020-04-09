@@ -70,7 +70,7 @@ with JAVASCRIPT.
 
 18. [올바른 괄호(스택)](https://github.com/taenykim/codeingTest/blob/master/level2/18.md)
 
-19. [다음 큰 숫자(2진법)](https://github.com/taenykim/codeingTest/blob/master/level2/19.md) `toString`, `정규표현식`
+19. 🤔[다음 큰 숫자(2진법)](https://github.com/taenykim/codeingTest/blob/master/level2/19.md) `toString`, `정규표현식`
 
 ## 카카오
 
