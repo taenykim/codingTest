@@ -80,6 +80,8 @@ with JAVASCRIPT.
 
 23. [점프와 순간이동(2진법))](https://github.com/taenykim/codeingTest/blob/master/level2/23.md) `2진법`
 
+24. [영어 끝말잇기(배열탐색))](https://github.com/taenykim/codeingTest/blob/master/level2/24.md) `%`, `/`
+
 ## 카카오
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
