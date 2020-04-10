@@ -66,11 +66,13 @@ with JAVASCRIPT.
 
 16. 😈[타겟 넘버(DFS)](https://github.com/taenykim/codeingTest/blob/master/level2/16.md) `DFS`, `재귀`, `tree`
 
-17. [가장 큰 정사각형 찾기(DP, 2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level2/17.md) `2차원배열`, `DP`
+17. [가장 큰 정사각형 찾기(DP, 2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level2/17.md) `DP`, `2차원배열`
 
 18. [올바른 괄호(스택)](https://github.com/taenykim/codeingTest/blob/master/level2/18.md)
 
 19. 🤔[다음 큰 숫자(2진법)](https://github.com/taenykim/codeingTest/blob/master/level2/19.md) `toString`, `정규표현식`
+
+20. 🤔[땅따먹기(DP, 2차원배열)](https://github.com/taenykim/codeingTest/blob/master/level2/20.md) `DP`, `2차원배열`
 
 ## 카카오
 
