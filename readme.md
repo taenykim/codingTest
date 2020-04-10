@@ -76,6 +76,8 @@ with JAVASCRIPT.
 
 21. [피보나치(DP))](https://github.com/taenykim/codeingTest/blob/master/level2/21.md) `DP`
 
+22. [짝지어 제거하기(탐색))](https://github.com/taenykim/codeingTest/blob/master/level2/22.md) `stack`
+
 ## 카카오
 
 1. [크레인 인형뽑기 게임(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/1.md) `stack`
