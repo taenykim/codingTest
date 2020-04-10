@@ -86,7 +86,7 @@ with JAVASCRIPT.
 
 6. 😈[괄호 변환(문자열탐색)](https://github.com/taenykim/codingTest/blob/master/kakao/6.md) `재귀`
 
-7. 😈[튜플(문자열)](https://github.com/taenykim/codingTest/blob/master/kakao/6.md) `replace`, `split`, `slice`, `정규표현식`
+7. 😈[튜플(문자열)](https://github.com/taenykim/codingTest/blob/master/kakao/7.md) `replace`, `split`, `slice`, `정규표현식`
 
 ## 해커랭크 easy
 
