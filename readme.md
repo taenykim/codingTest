@@ -98,6 +98,8 @@ with JAVASCRIPT.
 
 7. 😈[튜플(문자열)](https://github.com/taenykim/codingTest/blob/master/kakao/7.md) `replace`, `split`, `slice`, `정규표현식`
 
+8. 😈[캐시(배열탐색,queue)](https://github.com/taenykim/codingTest/blob/master/kakao/8.md) `queue`, `splice`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
