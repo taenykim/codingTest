@@ -100,6 +100,8 @@ with JAVASCRIPT.
 
 8. 😈[캐시(배열탐색,queue)](https://github.com/taenykim/codingTest/blob/master/kakao/8.md) `queue`, `splice`
 
+9. [뉴스 클러스터링(교집합,합집합)](https://github.com/taenykim/codingTest/blob/master/kakao/9.md) `정규표현식`, `search`, `splice`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
