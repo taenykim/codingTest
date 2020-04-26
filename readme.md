@@ -102,6 +102,8 @@ with JAVASCRIPT.
 
 9. [뉴스 클러스터링(교집합,합집합)](https://github.com/taenykim/codingTest/blob/master/kakao/9.md) `정규표현식`, `search`, `splice`
 
+10. [프렌즈4블록(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/10.md) `블록 부시기`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
