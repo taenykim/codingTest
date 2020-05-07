@@ -102,7 +102,7 @@ with JAVASCRIPT.
 
 9. [뉴스 클러스터링(교집합,합집합)](https://github.com/taenykim/codingTest/blob/master/kakao/9.md) `정규표현식`, `search`, `splice`
 
-10. [프렌즈4블록(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/10.md) `블록 부시기`
+10. 😈[프렌즈4블록(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/10.md) `블록 부시기`
 
 11. [캐시(queue)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `queue`
 
