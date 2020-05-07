@@ -104,6 +104,8 @@ with JAVASCRIPT.
 
 10. [프렌즈4블록(2차원배열)](https://github.com/taenykim/codingTest/blob/master/kakao/10.md) `블록 부시기`
 
+11. [캐시(queue)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `queue`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
