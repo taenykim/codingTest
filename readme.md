@@ -106,7 +106,9 @@ with JAVASCRIPT.
 
 11. [캐시(queue)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `queue`
 
-12. [오픈채팅방(중복체크)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `중복체크`, `배열`, `Object`, `객체`
+12. [오픈채팅방(중복체크)](https://github.com/taenykim/codingTest/blob/master/kakao/12.md) `중복체크`, `배열`, `Object`, `객체`
+
+13. 😈[방금그곡(정규표현식, 객체)](https://github.com/taenykim/codingTest/blob/master/kakao/13.md) `정규표현식`, `Object`, `객체`
 
 ## 해커랭크 easy
 
