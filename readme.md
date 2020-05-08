@@ -110,6 +110,8 @@ with JAVASCRIPT.
 
 13. 😈[방금그곡(정규표현식, 객체)](https://github.com/taenykim/codingTest/blob/master/kakao/13.md) `정규표현식`, `Object`, `객체`
 
+14. 😈[압축(스택)](https://github.com/taenykim/codingTest/blob/master/kakao/14.md) `스택`, `while`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
