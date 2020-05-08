@@ -106,6 +106,8 @@ with JAVASCRIPT.
 
 11. [캐시(queue)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `queue`
 
+12. [오픈채팅방(중복체크)](https://github.com/taenykim/codingTest/blob/master/kakao/11.md) `중복체크`, `배열`, `Object`, `객체`
+
 ## 해커랭크 easy
 
 1. [Staircase(콘솔입출력)](https://github.com/taenykim/codingTest/blob/master/easy/1.md) `콘솔입출력`
