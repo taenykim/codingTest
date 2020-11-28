@@ -123,3 +123,5 @@ with JAVASCRIPT.
 1. [maze (dfs)](https://github.com/taenykim/codingTest/blob/master/etc/dfs.md)
 
 2. [maze (bfs)](https://github.com/taenykim/codingTest/blob/master/etc/bfs.md)
+
+3. [Trie algorithm](https://github.com/taenykim/codingTest/blob/master/etc/trie.md)
