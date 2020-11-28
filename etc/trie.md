@@ -28,7 +28,7 @@ function solution(words) {
 
   for (const word of words) {
     curTrie = trie;
-    let i = 0;
+    let i;
     for (i = 0; i < word.length - 1; i++) {
       if (curTrie[word[i]][0] === 1) {
         break;
